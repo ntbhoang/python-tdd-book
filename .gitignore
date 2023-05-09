@@ -3,3 +3,4 @@ geckodriver.log
 virtualenv
 __py_cache__
 .pyc
+__pycache__
